@@ -22,3 +22,6 @@ print(r)
 
 #     print(price.text)
 print()
+ali
+dndn
+dd
