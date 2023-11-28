@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 url = "https://in.indeed.com/"
 r = requests.get(url)
 print(r)
+aliali
 # soup = BeautifulSoup(r.text,"lxml")
 
 # names = soup.find("div",{"class":"_4rR01T"})
