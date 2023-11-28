@@ -21,3 +21,4 @@ print(r)
 # for price in prices:
 
 #     print(price.text)
+print()
