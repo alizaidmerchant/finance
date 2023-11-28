@@ -12,6 +12,7 @@ details = soup.find("div",class_= "batch font-fam-medium")
 
 teachers = soup.find_all("span",class_="font-fam-bold")
 print(teachers)
+print('details')
 # # print(len(names))
 # for name in names:
 #     print(name)
