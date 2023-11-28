@@ -36,3 +36,5 @@ print(data)
 # print(df)
 
 # df.to_csv("IPL_auction_stats_2022.csv")
+ww
+s
